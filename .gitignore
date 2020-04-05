@@ -13,3 +13,7 @@ Tensorflow-Speech-Recognition-Challenge/train/
 *.h5
 *.hd5
 *.model
+
+# Binaries Skipped
+*.pkl
+*.pickle
