@@ -8,6 +8,7 @@
 *.jpg
 *.jpeg
 Tensorflow-Speech-Recognition-Challenge/train/
+Continous-Speech-Recognition/vctk-p225
 
 # Models Skipped
 *.h5
